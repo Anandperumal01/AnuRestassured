@@ -1,0 +1,7 @@
+testcases\GetAllTheCustomers_requestes.class
+Dataparameterisation\Addcustomer.class
+testcases\GetAllTheCustomers.class
+testcases\deletecustomer.class
+testcases\Addcustomer.class
+testcases\Getrecordbasedonthecustomerid.class
+testcases\updatecustomer.class
